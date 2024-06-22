@@ -1,9 +1,7 @@
 <h1>Koray Akben</h1>
 <h2>Cyber Researcher and Developer</h2>
-<h4>I am thrilled to introduce myself as a software engineer dedicated to making the world a safer place. My passion lies in creating solutions that enhance cybersecurity and safeguard digital landscapes.
+<h4>I am a software engineer that is so passionate about web technologies and cyber security. I constantly develop new projects to improve myself. I focus on developing innovative solutions to improve the user experience and security of web applications.</h4>
 
-Here on GitHub, I am excited to share projects that span both web development and cybersecurity, reflecting my commitment to innovation and security in the digital realm.
-</h4>
 
 
 
